@@ -17,7 +17,7 @@
 
 ## 4 ik snap niet waarom de gif het niet doet ( klik op de link en dat doet die het )
 
-[script](/Assets/New%20Folder/ShipBehaviour.cs)
+[script](/Assets/New%20Folder/items.cs)
 [script](/Assets/New%20Folder/Shoot.cs)
 [script](/Assets/New%20Folder/Messages.cs)
 
