@@ -20,7 +20,7 @@
 ![gif](/Assets/New%20Folder%201/2026-11-0514-44-19-ezgif.com-video-to-gif-converter.gif)
 
 
-## 4
+## 4 ik snap niet waarom de gif het niet doet ( klik op de link en dat doet die het )
 
 [script](/Assets/New%20Folder/ShipBehaviour.cs)
 [script](/Assets/New%20Folder/Shoot.cs)
@@ -31,7 +31,7 @@
 
 
 
-## 5
+## 5 ik snap niet waarom de gif het niet doet ( klik op de link en dat doet die het )
 
 [script](/Assets/Opdracht%205/Brute.cs)
 [script](/Assets/Opdracht%205/Elf.cs)
