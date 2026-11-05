@@ -38,12 +38,11 @@
 [script](/Assets/Opdracht%205/EnemyParent.cs)
 
 [gif](/Assets/New%20Folder%201/2026-11-0514-43-30-ezgif.com-video-to-gif-converter.gif)
-
 _________________________________________________________________
 
 # epic
 
-![afbeelding](/progM5enM6/Assets/funny%20afbeeldingen/Schermafbeelding%202025-12-01%20004128.png)
+![afbeelding](/Assets/Opdracht%205/cf485e44-cfd9-4758-bad9-b16726e22124.png)
 
 https://www.youtube.com/watch?v=li2WDMgHxD0
 
